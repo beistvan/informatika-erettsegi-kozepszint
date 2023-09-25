@@ -1,1 +1,1 @@
-# informatika-erettsegi-kozepszint
+# Informatika Érettségi. Középszint
